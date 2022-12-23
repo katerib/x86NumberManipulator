@@ -1,4 +1,4 @@
-# NumManipulator
+# Number Manipulator: Strings and Macros
 
 Prompts user to enter 10 signed decimal integers that are small enough to fit in a 32-bit register. Reads user input, performs a series of calculations (sum and truncated average), and then prints the calculated results to the user. 
 
