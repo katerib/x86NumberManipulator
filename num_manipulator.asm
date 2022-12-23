@@ -1,4 +1,4 @@
-TITLE Project 6     (num_manipulator.asm)
+TITLE Num Manipulator     (num_manipulator.asm)
 
 ; Last Modified: 3/13/22
 ; Description: Program asks user to input 10 signed integers. Integers must fit inside
